@@ -3,7 +3,7 @@
     <div class="home__square home__square--1">
       <div class="square__header">{{ squareHeader1 }}</div>
       <div class="square__square-text">{{ squareText1 }}</div>
-      <router-link to="/logic" class="suqare_button">Zobacz więcej</router-link>
+      <router-link to="/votes" class="suqare_button">Zobacz więcej</router-link>
     </div>
     <div class="home__square home__square--2">
       <div class="home__square-inside home__square-inside--1"></div>
@@ -19,7 +19,7 @@
     <div class="home__square home__square--4">
       <div class="square__header">{{ squareHeader4 }}</div>
       <div class="square__square-text">{{ squareText4 }}</div>
-      <router-link to="/logic" class="suqare_button">Zobacz więcej</router-link>
+      <router-link to="/votes" class="suqare_button">Zobacz więcej</router-link>
     </div>
   </div>
 </template>
